@@ -1,0 +1,17 @@
+p {width: 600px;
+    text-align: left;
+}
+h4 {font-weight: normal;}
+h1 {color: rgb(222, 20, 20);}
+body {background-color: black;}
+p, h1, h4, ul, ol {font-family: Georgia;}
+p, ul, ol {color: white;}
+p, h4, ul, ol {font-size: 15px;}
+#test {height: 10px;}
+.block1 {text-align: right;
+color: blue;}
+.block2 {text-align: right;
+color: white;}
+.block3 {margin: 150px;}
+.block4 {margin: 150px;}
+.page {width: 1500px;}
